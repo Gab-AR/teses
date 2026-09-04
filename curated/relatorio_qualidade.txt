@@ -1,0 +1,23 @@
+Relatorio de qualidade - catalogo curated
+==================================================
+
+Total de registros no catalogo final: 19412
+Registros removidos por deduplicacao:  1098
+Registros precisando revisao manual:   8201
+
+Distribuicao de flags de qualidade:
+  ok: 11211
+  titulo_suspeito_grupo_grande: 4680
+  sem_autor: 2281
+  sem_autor;titulo_suspeito_grupo_grande: 1097
+  sem_ano: 77
+  sem_autor;confianca_baixa: 26
+  sem_autor;sem_ano;confianca_baixa: 26
+  sem_autor;confianca_baixa;titulo_suspeito_grupo_grande: 3
+  sem_ano;titulo_suspeito_grupo_grande: 3
+  sem_autor;sem_ano;confianca_baixa;titulo_suspeito_grupo_grande: 2
+  texto_insuficiente: 2
+  sem_titulo;sem_autor;confianca_baixa: 1
+  sem_ano;texto_insuficiente: 1
+  sem_titulo;sem_autor;sem_ano;confianca_baixa: 1
+  sem_autor;texto_insuficiente: 1
